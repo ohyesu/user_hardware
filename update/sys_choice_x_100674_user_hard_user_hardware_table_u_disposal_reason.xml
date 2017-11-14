@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_disposal_reason" table="x_100674_user_hard_user_hardware_table" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_disposal_reason</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Legal Evidence</label>
+            <language>en</language>
+            <name>x_100674_user_hard_user_hardware_table</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-14 14:09:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8c7ffb6b0f120300af1587ece1050ea5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-14 14:09:53</sys_updated_on>
+            <value>Legal Evidence</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_disposal_reason</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Missing</label>
+            <language>en</language>
+            <name>x_100674_user_hard_user_hardware_table</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-14 14:09:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>087ffb6b0f120300af1587ece1050ea7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-14 14:09:53</sys_updated_on>
+            <value>Missing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_disposal_reason</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Retired (disposal)</label>
+            <language>en</language>
+            <name>x_100674_user_hard_user_hardware_table</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-14 14:09:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8c7ffb6b0f120300af1587ece1050ea8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-14 14:09:53</sys_updated_on>
+            <value>Retired (disposal)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_disposal_reason</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Return for maintenance</label>
+            <language>en</language>
+            <name>x_100674_user_hard_user_hardware_table</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-14 14:09:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>047ffb6b0f120300af1587ece1050eaa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-14 14:09:53</sys_updated_on>
+            <value>Return for maintenance</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_disposal_reason</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Return to supplier</label>
+            <language>en</language>
+            <name>x_100674_user_hard_user_hardware_table</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-14 14:09:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>887ffb6b0f120300af1587ece1050eab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-14 14:09:53</sys_updated_on>
+            <value>Return to supplier</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_disposal_reason</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sold</label>
+            <language>en</language>
+            <name>x_100674_user_hard_user_hardware_table</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-14 14:09:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>007ffb6b0f120300af1587ece1050ead</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-14 14:09:53</sys_updated_on>
+            <value>Sold</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_disposal_reason</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Stolen</label>
+            <language>en</language>
+            <name>x_100674_user_hard_user_hardware_table</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-14 14:09:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>847ffb6b0f120300af1587ece1050eae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-14 14:09:53</sys_updated_on>
+            <value>Stolen</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_disposal_reason</element>
+            <name>x_100674_user_hard_user_hardware_table</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-14 14:09:53</sys_created_on>
+            <sys_id>c07ffb6b0f120300af1587ece1050ea7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_disposal_reason</sys_name>
+            <sys_package display_value="User Hardware" source="x_100674_user_hard">cdb873670f120300af1587ece1050ef8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="User Hardware">cdb873670f120300af1587ece1050ef8</sys_scope>
+            <sys_update_name>sys_choice_x_100674_user_hard_user_hardware_table_u_disposal_reason</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-14 14:09:53</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

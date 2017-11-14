@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_knsrl_ind" table="x_100674_user_hard_user_hardware_table" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_knsrl_ind</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Off</label>
+            <language>en</language>
+            <name>x_100674_user_hard_user_hardware_table</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-14 14:52:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>584908ff0f120300af1587ece1050e6e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-14 14:52:46</sys_updated_on>
+            <value>Off</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_knsrl_ind</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>On</label>
+            <language>en</language>
+            <name>x_100674_user_hard_user_hardware_table</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-14 14:52:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>904908ff0f120300af1587ece1050e70</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-14 14:52:46</sys_updated_on>
+            <value>On</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_knsrl_ind</element>
+            <name>x_100674_user_hard_user_hardware_table</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-14 14:52:46</sys_created_on>
+            <sys_id>5c4908ff0f120300af1587ece1050e6f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_knsrl_ind</sys_name>
+            <sys_package display_value="User Hardware" source="x_100674_user_hard">cdb873670f120300af1587ece1050ef8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="User Hardware">cdb873670f120300af1587ece1050ef8</sys_scope>
+            <sys_update_name>sys_choice_x_100674_user_hard_user_hardware_table_u_knsrl_ind</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-14 14:52:46</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

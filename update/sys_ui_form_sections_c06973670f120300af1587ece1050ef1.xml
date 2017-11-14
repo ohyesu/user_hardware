@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="c06973670f120300af1587ece1050ef1" sys_domain="global" table="x_100674_user_hard_user_hardware_table" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-14 13:43:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>84697ba70f120300af1587ece1050e9a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_100674_user_hard_user_hardware_table" name="x_100674_user_hard_user_hardware_table" sys_domain="global" view="Default view">c06973670f120300af1587ece1050ef1</sys_ui_form>
+            <sys_ui_section caption="Hardware" display_value="Hardware" name="x_100674_user_hard_user_hardware_table" sys_domain="global" view="Default view">88697ba70f120300af1587ece1050e98</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-14 13:43:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-14 13:43:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>80697ba70f120300af1587ece1050e97</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_100674_user_hard_user_hardware_table" name="x_100674_user_hard_user_hardware_table" sys_domain="global" view="Default view">c06973670f120300af1587ece1050ef1</sys_ui_form>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_100674_user_hard_user_hardware_table" sys_domain="global" view="Default view">08697ba70f120300af1587ece1050e93</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-14 13:43:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-14 13:43:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>80697ba70f120300af1587ece1050ea3</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_100674_user_hard_user_hardware_table" name="x_100674_user_hard_user_hardware_table" sys_domain="global" view="Default view">c06973670f120300af1587ece1050ef1</sys_ui_form>
+            <sys_ui_section caption="Contracts" display_value="Contracts" name="x_100674_user_hard_user_hardware_table" sys_domain="global" view="Default view">80697ba70f120300af1587ece1050ea1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-14 14:52:39</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-14 13:43:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8c697ba70f120300af1587ece1050e9e</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_100674_user_hard_user_hardware_table" name="x_100674_user_hard_user_hardware_table" sys_domain="global" view="Default view">c06973670f120300af1587ece1050ef1</sys_ui_form>
+            <sys_ui_section caption="KNSRL" display_value="KNSRL" name="x_100674_user_hard_user_hardware_table" sys_domain="global" view="Default view">00697ba70f120300af1587ece1050e9e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-14 14:52:39</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-14 13:43:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>84697ba70f120300af1587ece1050e98</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_100674_user_hard_user_hardware_table" name="x_100674_user_hard_user_hardware_table" sys_domain="global" view="Default view">c06973670f120300af1587ece1050ef1</sys_ui_form>
+            <sys_ui_section caption="Activities" display_value="Activities" name="x_100674_user_hard_user_hardware_table" sys_domain="global" view="Default view">84697ba70f120300af1587ece1050e97</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-14 14:52:39</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_100674_user_hard_user_hardware_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-14 13:43:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c06973670f120300af1587ece1050ef1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_100674_user_hard_user_hardware_table</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="User Hardware" source="x_100674_user_hard">cdb873670f120300af1587ece1050ef8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="User Hardware">cdb873670f120300af1587ece1050ef8</sys_scope>
+            <sys_update_name>sys_ui_form_sections_c06973670f120300af1587ece1050ef1</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-14 13:43:23</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

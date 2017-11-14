@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Hardware" section_id="88697ba70f120300af1587ece1050e98" sys_domain="global" table="x_100674_user_hard_user_hardware_table" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>display_name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-14 14:09:52</sys_created_on>
+            <sys_id>c87ffb6b0f120300af1587ece1050e93</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Hardware" display_value="Hardware" name="x_100674_user_hard_user_hardware_table" sys_domain="global" view="Default view">88697ba70f120300af1587ece1050e98</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-14 14:09:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-14 14:09:52</sys_created_on>
+            <sys_id>4c7ffb6b0f120300af1587ece1050e93</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Hardware" display_value="Hardware" name="x_100674_user_hard_user_hardware_table" sys_domain="global" view="Default view">88697ba70f120300af1587ece1050e98</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-14 14:09:52</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>model_category</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-14 14:09:52</sys_created_on>
+            <sys_id>cc7ffb6b0f120300af1587ece1050e93</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Hardware" display_value="Hardware" name="x_100674_user_hard_user_hardware_table" sys_domain="global" view="Default view">88697ba70f120300af1587ece1050e98</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-14 14:09:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>model</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-14 14:09:52</sys_created_on>
+            <sys_id>407ffb6b0f120300af1587ece1050e94</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Hardware" display_value="Hardware" name="x_100674_user_hard_user_hardware_table" sys_domain="global" view="Default view">88697ba70f120300af1587ece1050e98</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-14 14:09:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_manufacturer</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-14 14:09:52</sys_created_on>
+            <sys_id>c07ffb6b0f120300af1587ece1050e94</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Hardware" display_value="Hardware" name="x_100674_user_hard_user_hardware_table" sys_domain="global" view="Default view">88697ba70f120300af1587ece1050e98</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-14 14:09:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-14 14:09:52</sys_created_on>
+            <sys_id>447ffb6b0f120300af1587ece1050e94</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Hardware" display_value="Hardware" name="x_100674_user_hard_user_hardware_table" sys_domain="global" view="Default view">88697ba70f120300af1587ece1050e98</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-14 14:09:52</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>asset_tag</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-14 14:09:52</sys_created_on>
+            <sys_id>c47ffb6b0f120300af1587ece1050e94</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Hardware" display_value="Hardware" name="x_100674_user_hard_user_hardware_table" sys_domain="global" view="Default view">88697ba70f120300af1587ece1050e98</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-14 14:09:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>serial_number</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-14 14:09:52</sys_created_on>
+            <sys_id>487ffb6b0f120300af1587ece1050e94</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Hardware" display_value="Hardware" name="x_100674_user_hard_user_hardware_table" sys_domain="global" view="Default view">88697ba70f120300af1587ece1050e98</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-14 14:09:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Hardware</caption>
+            <header>false</header>
+            <name>x_100674_user_hard_user_hardware_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-14 13:43:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>88697ba70f120300af1587ece1050e98</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Hardware</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="User Hardware" source="x_100674_user_hard">cdb873670f120300af1587ece1050ef8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="User Hardware">cdb873670f120300af1587ece1050ef8</sys_scope>
+            <sys_update_name>sys_ui_section_88697ba70f120300af1587ece1050e98</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-14 13:43:23</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_knsrl_sts" table="x_100674_user_hard_user_hardware_table" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_knsrl_sts</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>EMPLOYEE ON LONG TERM SICK / MATERNITY</label>
+            <language>en</language>
+            <name>x_100674_user_hard_user_hardware_table</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-14 14:52:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d44908ff0f120300af1587ece1050e77</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-14 14:52:46</sys_updated_on>
+            <value>EMPLOYEE ON LONG TERM SICK / MATERNITY</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_knsrl_sts</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>EX ISP USER - PENDING REFRESH</label>
+            <language>en</language>
+            <name>x_100674_user_hard_user_hardware_table</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-14 14:52:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>104908ff0f120300af1587ece1050e79</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-14 14:52:46</sys_updated_on>
+            <value>EX ISP USER - PENDING REFRESH</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_knsrl_sts</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>GIA USER</label>
+            <language>en</language>
+            <name>x_100674_user_hard_user_hardware_table</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-14 14:52:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>944908ff0f120300af1587ece1050e7a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-14 14:52:46</sys_updated_on>
+            <value>GIA USER</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_knsrl_sts</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>INVENTORY NOT UPDATED</label>
+            <language>en</language>
+            <name>x_100674_user_hard_user_hardware_table</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-14 14:52:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1c4908ff0f120300af1587ece1050e7b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-14 14:52:46</sys_updated_on>
+            <value>INVENTORY NOT UPDATED</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_knsrl_sts</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MACHINE KEPT OFF NETWORK</label>
+            <language>en</language>
+            <name>x_100674_user_hard_user_hardware_table</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-14 14:52:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>904908ff0f120300af1587ece1050e7d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-14 14:52:46</sys_updated_on>
+            <value>MACHINE KEPT OFF NETWORK</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_knsrl_sts</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MACHINE KEPT OFF NETWORK - NO SCAN</label>
+            <language>en</language>
+            <name>x_100674_user_hard_user_hardware_table</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-14 14:52:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>184908ff0f120300af1587ece1050e7e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-14 14:52:46</sys_updated_on>
+            <value>MACHINE KEPT OFF NETWORK - NO SCAN</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_knsrl_sts</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MACHINE KEPT OFF NETWORK - TEST MACHINE</label>
+            <language>en</language>
+            <name>x_100674_user_hard_user_hardware_table</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-14 14:52:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9c4908ff0f120300af1587ece1050e7f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-14 14:52:46</sys_updated_on>
+            <value>MACHINE KEPT OFF NETWORK - TEST MACHINE</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_knsrl_sts</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MACHINE KEPT OFF NETWORK - TRAINING ROOM</label>
+            <language>en</language>
+            <name>x_100674_user_hard_user_hardware_table</name>
+            <sequence>7</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-14 14:52:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>144908ff0f120300af1587ece1050e81</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-14 14:52:46</sys_updated_on>
+            <value>MACHINE KEPT OFF NETWORK - TRAINING ROOM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_knsrl_sts</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MACHINE KEPT OFF NETWORK - USER DECISION</label>
+            <language>en</language>
+            <name>x_100674_user_hard_user_hardware_table</name>
+            <sequence>8</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-14 14:52:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>984908ff0f120300af1587ece1050e82</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-14 14:52:46</sys_updated_on>
+            <value>MACHINE KEPT OFF NETWORK - USER DECISION</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_knsrl_sts</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MACHINE NOT ON NETWORK LONG ENOUGH</label>
+            <language>en</language>
+            <name>x_100674_user_hard_user_hardware_table</name>
+            <sequence>9</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-14 14:52:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>104908ff0f120300af1587ece1050e84</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-14 14:52:46</sys_updated_on>
+            <value>MACHINE NOT ON NETWORK LONG ENOUGH</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_knsrl_sts</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SPARE MACHINE RETAINED BY USER</label>
+            <language>en</language>
+            <name>x_100674_user_hard_user_hardware_table</name>
+            <sequence>10</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-14 14:52:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>944908ff0f120300af1587ece1050e85</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-14 14:52:46</sys_updated_on>
+            <value>SPARE MACHINE RETAINED BY USER</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_knsrl_sts</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>UNDER INVESTIGATION</label>
+            <language>en</language>
+            <name>x_100674_user_hard_user_hardware_table</name>
+            <sequence>11</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-14 14:52:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1c4908ff0f120300af1587ece1050e86</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-14 14:52:46</sys_updated_on>
+            <value>UNDER INVESTIGATION</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_knsrl_sts</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>UNDER INVESTIGATION - NO EMAIL RESPONSE</label>
+            <language>en</language>
+            <name>x_100674_user_hard_user_hardware_table</name>
+            <sequence>12</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-14 14:52:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>904908ff0f120300af1587ece1050e88</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-14 14:52:46</sys_updated_on>
+            <value>UNDER INVESTIGATION - NO EMAIL RESPONSE</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_knsrl_sts</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>UNDER INVESTIGATION - NO MANAGER EMAIL AVAILABLE</label>
+            <language>en</language>
+            <name>x_100674_user_hard_user_hardware_table</name>
+            <sequence>13</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-14 14:52:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>184908ff0f120300af1587ece1050e89</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-14 14:52:46</sys_updated_on>
+            <value>UNDER INVESTIGATION - NO MANAGER EMAIL AVAILABLE</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_knsrl_sts</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>WIN 7 REFRESH ACTIVITY</label>
+            <language>en</language>
+            <name>x_100674_user_hard_user_hardware_table</name>
+            <sequence>14</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-14 14:52:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9c4908ff0f120300af1587ece1050e8a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-14 14:52:46</sys_updated_on>
+            <value>WIN 7 REFRESH ACTIVITY</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_knsrl_sts</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>WINDOWS 7</label>
+            <language>en</language>
+            <name>x_100674_user_hard_user_hardware_table</name>
+            <sequence>15</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-14 14:52:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>144908ff0f120300af1587ece1050e8c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-14 14:52:46</sys_updated_on>
+            <value>WINDOWS 7</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_knsrl_sts</element>
+            <name>x_100674_user_hard_user_hardware_table</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-11-14 14:52:46</sys_created_on>
+            <sys_id>d84908ff0f120300af1587ece1050e78</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_knsrl_sts</sys_name>
+            <sys_package display_value="User Hardware" source="x_100674_user_hard">cdb873670f120300af1587ece1050ef8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="User Hardware">cdb873670f120300af1587ece1050ef8</sys_scope>
+            <sys_update_name>sys_choice_x_100674_user_hard_user_hardware_table_u_knsrl_sts</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-11-14 14:52:46</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

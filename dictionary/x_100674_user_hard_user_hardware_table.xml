@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="alm_hardware" label="User Hardware Table" max_length="40" name="x_100674_user_hard_user_hardware_table" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Asset company" max_length="40" name="u_ast_company" type="string"/>
+        <element label="Receive date" max_length="40" name="u_delivery_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Disposal Reason" max_length="40" name="u_disposal_reason" type="string">
+            <choice>
+                <element label="Legal Evidence" sequence="0" value="Legal Evidence"/>
+                <element label="Missing" sequence="1" value="Missing"/>
+                <element label="Retired (disposal)" sequence="2" value="Retired (disposal)"/>
+                <element label="Return for maintenance" sequence="3" value="Return for maintenance"/>
+                <element label="Return to supplier" sequence="4" value="Return to supplier"/>
+                <element label="Sold" sequence="5" value="Sold"/>
+                <element label="Stolen" sequence="6" value="Stolen"/>
+            </choice>
+        </element>
+        <element label="Disposed date" max_length="40" name="u_disposed_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="KNSRL Indicator" max_length="40" name="u_knsrl_ind" type="string">
+            <choice>
+                <element label="Off" sequence="0" value="Off"/>
+                <element label="On" sequence="1" value="On"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="KNSRL Notes" max_length="100" name="u_knsrl_notes" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="KNSRL Status" max_length="40" name="u_knsrl_sts" type="string">
+            <choice>
+                <element label="EMPLOYEE ON LONG TERM SICK / MATERNITY" sequence="0" value="EMPLOYEE ON LONG TERM SICK / MATERNITY"/>
+                <element label="EX ISP USER - PENDING REFRESH" sequence="1" value="EX ISP USER - PENDING REFRESH"/>
+                <element label="GIA USER" sequence="2" value="GIA USER"/>
+                <element label="INVENTORY NOT UPDATED" sequence="3" value="INVENTORY NOT UPDATED"/>
+                <element label="MACHINE KEPT OFF NETWORK" sequence="4" value="MACHINE KEPT OFF NETWORK"/>
+                <element label="MACHINE KEPT OFF NETWORK - NO SCAN" sequence="5" value="MACHINE KEPT OFF NETWORK - NO SCAN"/>
+                <element label="MACHINE KEPT OFF NETWORK - TEST MACHINE" sequence="6" value="MACHINE KEPT OFF NETWORK - TEST MACHINE"/>
+                <element label="MACHINE KEPT OFF NETWORK - TRAINING ROOM" sequence="7" value="MACHINE KEPT OFF NETWORK - TRAINING ROOM"/>
+                <element label="MACHINE KEPT OFF NETWORK - USER DECISION" sequence="8" value="MACHINE KEPT OFF NETWORK - USER DECISION"/>
+                <element label="MACHINE NOT ON NETWORK LONG ENOUGH" sequence="9" value="MACHINE NOT ON NETWORK LONG ENOUGH"/>
+                <element label="SPARE MACHINE RETAINED BY USER" sequence="10" value="SPARE MACHINE RETAINED BY USER"/>
+                <element label="UNDER INVESTIGATION" sequence="11" value="UNDER INVESTIGATION"/>
+                <element label="UNDER INVESTIGATION - NO EMAIL RESPONSE" sequence="12" value="UNDER INVESTIGATION - NO EMAIL RESPONSE"/>
+                <element label="UNDER INVESTIGATION - NO MANAGER EMAIL AVAILABLE" sequence="13" value="UNDER INVESTIGATION - NO MANAGER EMAIL AVAILABLE"/>
+                <element label="WIN 7 REFRESH ACTIVITY" sequence="14" value="WIN 7 REFRESH ACTIVITY"/>
+                <element label="WINDOWS 7" sequence="15" value="WINDOWS 7"/>
+            </choice>
+        </element>
+        <element label="Lease end" max_length="40" name="u_lease_end" type="glide_date"/>
+        <element label="Lease start" max_length="40" name="u_lease_start" type="glide_date"/>
+        <element label="Location" max_length="32" name="u_location" reference="cmn_location" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Lost/Stolen comments" max_length="1000" name="u_lost_stolen_comments" type="string"/>
+        <element label="Lost/Stolen date" max_length="40" name="u_lost_stolen_date" type="glide_date"/>
+        <element label="Last scan date" max_length="40" name="u_lst_scn_dt" type="glide_date_time"/>
+        <element label="Last scanned user" max_length="32" name="u_lst_scn_usr" reference="sys_user" type="reference"/>
+        <element label="Manufacturer" max_length="32" name="u_manufacturer" reference="cmdb_hardware_product_model" type="reference"/>
+        <element label="Open client" max_length="40" name="u_opn_clnt" type="boolean"/>
+        <element label="Process date" max_length="40" name="u_process_date" type="glide_date"/>
+        <element label="Return date" max_length="40" name="u_return_date" type="glide_date"/>
+        <element label="Received asset by" max_length="32" name="u_revd_ast_by" reference="sys_user" type="reference"/>
+        <element label="Support Group" max_length="32" name="u_support_group" reference="sys_user_group" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Work info" max_length="250" name="u_work_info" type="string"/>
+        <index name="index">
+            <element name="u_manufacturer"/>
+        </index>
+        <index name="index2">
+            <element name="u_support_group"/>
+        </index>
+        <index name="index3">
+            <element name="u_lst_scn_usr"/>
+        </index>
+        <index name="index4">
+            <element name="u_revd_ast_by"/>
+        </index>
+        <index name="index5">
+            <element name="u_location"/>
+        </index>
+    </element>
+</database>
